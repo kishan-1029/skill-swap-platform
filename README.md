@@ -24,7 +24,3 @@
 | Yash Nareshbhai Darji     | yashhd90@gmail.com           | 9998634782  |
 
 ---
-
-## 🔗 GitHub Repository
-
-> Add your GitHub repo link here.
