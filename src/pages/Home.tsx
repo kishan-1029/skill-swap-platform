@@ -42,21 +42,6 @@ export const Home = () => {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
-      {/* Hero Section */}
-      <div className="text-center mb-12">
-        <div className="bg-gradient-hero rounded-2xl p-8 text-white shadow-strong mb-8">
-          <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            Exchange Skills,
-            <br />
-            <span className="text-accent">Grow Together</span>
-          </h1>
-          <p className="text-xl opacity-90 max-w-2xl mx-auto">
-            Connect with skilled professionals, learn new abilities, and share your expertise 
-            in our vibrant skill-swapping community.
-          </p>
-        </div>
-      </div>
-
       {/* Filters */}
       <div className="bg-card rounded-xl p-6 shadow-soft mb-8">
         <div className="flex flex-col md:flex-row gap-4">
