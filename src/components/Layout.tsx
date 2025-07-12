@@ -112,7 +112,7 @@ export const Layout = () => {
       <footer className="bg-card border-t mt-16">
         <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="text-center text-muted-foreground">
-            <p>&copy; 2024 SkillSwap Platform. Connect, Learn, Grow.</p>
+            <p>&copy; 2025 SkillSwap Platform. Connect, Learn, Grow.</p>
           </div>
         </div>
       </footer>
