@@ -114,6 +114,31 @@ const mockUsers: User[] = [
     availability: "Weekdays",
     profileVisibility: "public",
     rating: 4.3
+  },
+
+  {
+    id: 7,
+    name: "John Doe",
+    email: "john@example.com",
+    location: "Surat",
+    photo: "https://images.unsplash.com/photo-1502767089025-6572583495fe?w=150&h=150&fit=crop&crop=face",
+    skillsOffered: ["Flutter", "Firebase"],
+    skillsWanted: ["Design", "Marketing"],
+    availability: "Flexible",
+    profileVisibility: "public",
+    rating: 4.6
+  },
+  {
+    id: 8,
+    name: "Anjali Mehta",
+    email: "anjali@example.com",
+    location: "Rajkot",
+    photo: "https://images.unsplash.com/photo-1599566150163-29194dcaad36?w=150&h=150&fit=crop&crop=face",
+    skillsOffered: ["Vue.js", "TailwindCSS"],
+    skillsWanted: ["Backend", "MongoDB"],
+    availability: "Weekends",
+    profileVisibility: "public",
+    rating: 4.4
   }
 ];
 
